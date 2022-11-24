@@ -19,8 +19,7 @@
  ******************************************************************************/
 /**        Testerlotzi
  *
- *          Simple Python OpenGL program that uses PyOpenGL + GLFW to get an
- *          OpenGL 3.2 context and display some 2D scene.
+ *          
  ****
 """
 
