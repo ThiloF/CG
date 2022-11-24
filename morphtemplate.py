@@ -17,7 +17,7 @@
  *             @version:   0.9
  *                @date:   16.04.2021
  ******************************************************************************/
-/**         RenderWindow.py
+/**        Testerlotzi
  *
  *          Simple Python OpenGL program that uses PyOpenGL + GLFW to get an
  *          OpenGL 3.2 context and display some 2D scene.
